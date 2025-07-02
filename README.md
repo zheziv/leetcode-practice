@@ -10,4 +10,5 @@
 - Space Complexity: O(n)
 
 ## Code:
-(see `easy/1-two-sum.py`)
+- Wrong sample (see `easy/1-two-sum.py`)
+- Best answer (see `easy/1-two-sum-refined.py`)
