@@ -17,7 +17,7 @@ I'll gradually add categories (Easy / Medium / Hard) and tags (e.g., Hashmap, DP
 ## Progress
 
 - Problems solved: 2 (will be updated)
-- Language: Python 3.11
+- Language: Python 3.11.9
 - IDE: VSCode / Jupyter
 
 ## Contact
