@@ -17,6 +17,7 @@
 
 ## Approach:
 - Need to customize a function to reserve a ListNode
+- Simplified without a function customized
 
 ## Code:
 - (see `Med/2-add-two-numbers.py`)
