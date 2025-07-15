@@ -16,7 +16,7 @@ I'll gradually add categories (Easy / Medium / Hard) and tags (e.g., Hashmap, DP
 
 ## Progress
 
-- Problems solved: 2 (will be updated)
+- Problems solved: 3 (will be updated)
 - Language: Python 3.11.9
 - IDE: VSCode / Jupyter
 
@@ -47,3 +47,15 @@ This repo is part of my transition path. Feel free to connect at [LinkedIn](http
 ## Code:
 - (see `Med/2-add-two-numbers.py`)
 - (see `Med/2-add-two-numbers-simplified.py`)
+
+# Problem: Longest Substring Without Repeating Characters
+- LeetCode #: 3
+- Difficulty: Med.
+
+## Approach:
+- Need to look out don't clear all substrings when duplicate happened. Or the later longest substring will also be cleared.
+- Simplified and reviewed by AI
+
+## Code:
+- (see `Med/3-longest-substr-without-repeat-char.py`)
+- (see `Med/3-longest-substr-without-repeat-char-simplified.py`)
