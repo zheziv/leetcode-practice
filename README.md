@@ -36,6 +36,9 @@ This repo is part of my transition path. Feel free to connect at [LinkedIn](http
 - Wrong sample (see `easy/1-two-sum.py`)
 - Best answer (see `easy/1-two-sum-refined.py`)
 
+## Completion Date:
+- Jul 2, 2025
+
 # Problem: Add Two Numbers
 - LeetCode #: 2
 - Difficulty: Med.
