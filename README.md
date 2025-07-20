@@ -51,6 +51,9 @@ This repo is part of my transition path. Feel free to connect at [LinkedIn](http
 - (see `Med/2-add-two-numbers.py`)
 - (see `Med/2-add-two-numbers-simplified.py`)
 
+## Completion Date:
+- Jul 6, 2025
+
 # Problem: Longest Substring Without Repeating Characters
 - LeetCode #: 3
 - Difficulty: Med.
@@ -62,3 +65,7 @@ This repo is part of my transition path. Feel free to connect at [LinkedIn](http
 ## Code:
 - (see `Med/3-longest-substr-without-repeat-char.py`)
 - (see `Med/3-longest-substr-without-repeat-char-simplified.py`)
+
+## Completion Date:
+- Jul 15, 2025
+
