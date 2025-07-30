@@ -4,11 +4,12 @@ class Solution:
         if s == s[::-1]:
             return s
      
-        min = 2
+        min = 2 # 🚫 Never use 'min' as a variable name. Use such as min_len
         i = min
         sub_strs = []
 
         i = min
+        # It's storing all palindromic substrings and lengths — unnecessary memory usage.
         while i <= len(s):
             for j in range(len(s)):
                 if i + j <= len(s):
@@ -23,6 +24,7 @@ class Solution:
                 i_lens[substr] = len(substr)
             return max(i_lens, key=i_lens.get)
         else:
+            # This can be simplified. If sub_strs is empty and the string isn't a palindrome, the longest palindromic substring is always s[0].
             if len(s) == 1:
                 return s
             else:
