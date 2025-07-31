@@ -69,3 +69,17 @@ This repo is part of my transition path. Feel free to connect at [LinkedIn](http
 ## Completion Date:
 - Jul 15, 2025
 
+- # Problem: Longest Palindromic Substring
+- LeetCode #: 5
+- Difficulty: Med.
+
+## Approach:
+- Storing all palindromic substrings and lengths causes unnecessary memory usage.
+- Keep track of the longest one directly, without storing all.
+
+## Code:
+- (see `Med/5-longest-palindrome.py`)
+- (see `Med/5-longest-palindrome-refined.py`)
+
+## Completion Date:
+- Jul 30, 2025
