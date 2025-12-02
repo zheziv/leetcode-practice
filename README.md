@@ -16,7 +16,7 @@ I'll gradually add categories (Easy / Medium / Hard) and tags (e.g., Hashmap, DP
 
 ## Progress
 
-- Problems solved: 3 (will be updated)
+- Problems solved: 5 (will be updated)
 - Language: Python 3.11.9
 - IDE: VSCode / Jupyter
 
@@ -83,3 +83,17 @@ This repo is part of my transition path. Feel free to connect at [LinkedIn](http
 
 ## Completion Date:
 - Jul 30, 2025
+
+- # Problem: Zigzag Conversion
+- LeetCode #: 6
+- Difficulty: Med.
+
+## Approach:
+- Learned how to use _ when the variable is required syntactically but I don’t need it.
+
+## Code:
+- (see `Med/6-zigzag-conversion.py`)
+- (see `Med/6-zigzag-conversion-refined.py`)
+
+## Completion Date:
+- Dec 2, 2025
